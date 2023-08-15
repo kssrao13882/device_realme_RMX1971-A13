@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RMX1971.mk
+    $(LOCAL_DIR)/superior_RMX1971.mk
+
+COMMON_LUNCH_CHOICES := \
+    superior_RMX1971-eng \
+    superior_RMX1971-userdebug \
+    superior_RMX1971-user
