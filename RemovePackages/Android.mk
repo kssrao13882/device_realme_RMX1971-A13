@@ -11,6 +11,8 @@ LOCAL_OVERRIDES_PACKAGES := \
     Maps \
     Photos \
     PrebuiltGmail \
+    RecorderPrebuilt \
+    SafetyHubPrebuilt \
     Videos \
     YouTube \
     YouTubeMusicPrebuilt
