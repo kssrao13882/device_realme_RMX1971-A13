@@ -6,8 +6,10 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
     Chrome \
+    Chrome64 \
     Chrome-Stub \
     Drive \
+    Gmail2 \
     Maps \
     Photos \
     PrebuiltGmail \
